@@ -1,0 +1,24 @@
+header{
+    margin: 0 auto;
+    width: 100px;
+    text-align: center;
+}
+
+main{
+    background-color: rgb(145, 255, 0);
+    width: 100px;
+    margin: 0 auto;
+    border: solid yellow 5px;
+    text-align: center;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 80px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: darkgreen;
+}
